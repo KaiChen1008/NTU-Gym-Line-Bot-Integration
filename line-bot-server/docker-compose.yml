@@ -1,0 +1,17 @@
+
+services:
+    https-server:
+        build:
+            context: .
+            dockerfile: https-server/Dockerfile
+        image:  ntu-gym-https-server
+        container_name: ntu-gym-https-server
+        volumes: 
+            - ~/.ngrok2:/home/ngrok/.ngrok2/
+    bot-server:
+        build:
+            context: .
+            dockerfile: bot-server/Dockerfile
+        image:  ntu-gym-line-bot-server
+        container_name: ntu-gym-bot-server
+  

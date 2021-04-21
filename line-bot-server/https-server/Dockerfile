@@ -1,0 +1,7 @@
+FROM wernight/ngrok
+
+ENV NGROK_PORT 8010
+ENV NGROK_REGION ap
+ENV NGROK_BINDTLS true
+ENV NGROK_DEBUG true
+ENV NGROK_LOOK_DOMAIN  ntu-gym-bot-server
