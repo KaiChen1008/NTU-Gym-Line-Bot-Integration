@@ -8,7 +8,7 @@ It is not surprising that people go to the gym and are rejected due to the capac
 
 This project is developed using Django and wrapped by docker-compose. We also use ngrox to get an instantly https address for Line API.
 
-⛔️ The project is temporarily stopped developing due to the Covid-19 (the gym is closed now). We will re-start the project once the gym is on.
+⛔️ The project is temporarily stopped developing due to Covid-19 (the gym is closed now). We will re-start the project once the gym is on.
 
 <img src="./imgs/IMG_8140.PNG" alt="IMG_8140" style="zoom:25%;" />
 
