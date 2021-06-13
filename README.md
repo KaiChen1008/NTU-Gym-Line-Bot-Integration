@@ -6,7 +6,7 @@ It is not surprising that people go to the gym and are rejected due to the capac
 
 🤖 The project is temporarily stopped developing due to the Covid-19 (the gym is closed now). We will re-start the project once the gym is on.
 
-<img src="./imgs/IMG_8140.PNG" alt="IMG_8140" style="zoom:25%;" /><img src="/Users/linkaichen/work/ntu-gym-line-bot-integration/imgs/IMG_8143.JPG" alt="IMG_8143" style="zoom:25%;" />
+<img src="./imgs/IMG_8140.PNG" alt="IMG_8140" style="zoom:25%;" /><img src="./imgs/IMG_8143.JPG" alt="IMG_8143" style="zoom:25%;" />
 
 
 
@@ -40,7 +40,7 @@ docker-compose .
 
 6. After the service started, please paste the generated instant address to line bot webpage (under Message API tab)
 
-![截圖 2021-06-14 上午1.51.27](./imgs/截圖 2021-06-14 上午1.51.27.png)
+<img src="./imgs/inst1.PNG" alt="IMG_8140" style="zoom:100%;" />
 
 
 
