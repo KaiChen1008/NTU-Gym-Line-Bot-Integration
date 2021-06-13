@@ -1,16 +1,20 @@
 # NTU-Gym-Line-Bot-Integration
 
-> Public Code for Non-Official NTU Gym Real-time Monitor Line Bot
+> 🤖 Public Code for Non-Official NTU Gym Real-time Monitor Line Bot
 
-It is not surprising that people go to the gym and are rejected due to the capacity contraint. To deal with this problem, we develop a line bot that can tell users the real-time information about the gym. With current capacity, they can decide the exercising time without going to the gym in vain. This project is developed using Django and wrapped by docker-compose. We also use ngrox to get an instantly https address for Line API.
+It is not surprising that people go to the gym and are rejected due to the capacity contraint. To deal with this problem, we develop a line bot that can tell users the real-time information about the gym. With current capacity, they can decide the exercising time without going to the gym in vain. 
 
-🤖 The project is temporarily stopped developing due to the Covid-19 (the gym is closed now). We will re-start the project once the gym is on.
+
+
+This project is developed using Django and wrapped by docker-compose. We also use ngrox to get an instantly https address for Line API.
+
+⛔️ The project is temporarily stopped developing due to the Covid-19 (the gym is closed now). We will re-start the project once the gym is on.
 
 <img src="./imgs/IMG_8140.PNG" alt="IMG_8140" style="zoom:25%;" />
 
 
 
-## Usage
+## 🔧 Get Started
 
 These instructions will help you develop an “almost” same line-bot. 
 
@@ -46,7 +50,7 @@ docker-compose .
 
 
 
-## ToDo
+## 📎 ToDo
 
 - [ ] Collecting data for analyzing
 - [ ] Predict the capacity of a specific time
