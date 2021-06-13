@@ -40,7 +40,7 @@ docker-compose .
 
 6. After the service started, please paste the generated instant address to line bot webpage (under Message API tab)
 
-<img src="./imgs/inst1.PNG" style="zoom:100%;" />
+<img src="./imgs/IMG_01.PNG" style="zoom:100%;" />
 
 
 
