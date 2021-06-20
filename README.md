@@ -2,9 +2,7 @@
 
 > 🤖 Public Code for Non-Official NTU Gym Real-time Monitor Line Bot
 
-It is not surprising that people go to the gym and are rejected due to the capacity contraint. To deal with this problem, we develop a line bot that can tell users the real-time information about the gym. With current capacity, they can decide the exercising time without going to the gym in vain. 
-
-
+As a person who does work out quite often, I always get upset when I have to wait in line for entering NTU Gym. As a result, I developed a chatbot in order to check whether NTU Gym is crowded or not.
 
 This project is developed using Django and wrapped by docker-compose. We also use ngrox to get an instantly https address for Line API.
 
