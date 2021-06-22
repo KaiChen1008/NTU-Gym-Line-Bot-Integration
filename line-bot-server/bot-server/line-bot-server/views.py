@@ -27,7 +27,12 @@ def get_gym_capacity():
         return 'error occurs when fetch the data'
 
 
-
+"""
+Normally when you make a request via a form you want the form being submitted to your view to originate from your website and not come from some other domain. 
+To ensure that this happens, you can put a csrf token in your form for your view to recognize. 
+If you add @csrf_exempt to the top of your view, then you are basically telling the view that it doesn't need the token. 
+This is a security exemption that you should take seriously.
+"""
 @csrf_exempt
 def callback(request):
     if request.method == 'POST':
